@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "finalyze"
+version = "0.1.0"
+description = ""
+authors = ["bk <codesage@protonmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^1.5.3"
+plotly = "^5.13.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
