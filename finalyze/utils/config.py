@@ -1,0 +1,3 @@
+import os
+
+ALPHA_VANTAGE_API_KEY = os.environ(ALPHA_VANTAGE_API_KEY)
