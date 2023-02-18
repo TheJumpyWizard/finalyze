@@ -30,6 +30,7 @@ Finalyze requires the following Python packages:
 * matplotlib
 * plotly
 * alpha-vantage
+
 These packages can be installed using pip by running pip install -r requirements.txt.
 
 ### License
